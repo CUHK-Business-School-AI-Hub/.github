@@ -19,7 +19,6 @@ Research, teaching, and practice form a closed loop: research creates new method
 
 - [`ai_hub_HPC_user_guide`](https://github.com/CUHK-Business-School-AI-Hub/ai_hub_HPC_user_guide) — Onboarding and reference guide for AI Hub HPC users, covering account access, environments, Slurm workloads, and resource policies.
 - [`AI_Hub_showcases`](https://github.com/CUHK-Business-School-AI-Hub/AI_Hub_showcases) — Runnable GPU showcases for business applications, including sentiment analysis, bank marketing, and multimodal inference.
-- [`BRICK`](https://github.com/CUHK-Business-School-AI-Hub/BRICK) — A reusable template for building general-purpose agent work modules. *(Restricted access.)*
 
 ### Area I: AI × Business Research
 
@@ -28,10 +27,11 @@ Research projects draw on the shared compute, tooling, and workflow capabilities
 ### Area II: Teaching & Corporate Training
 
 - [`Quaestio-Socratica`](https://github.com/CUHK-Business-School-AI-Hub/Quaestio-Socratica) — Turns source materials or a learning goal into a checkpoint-based, personalized Socratic course.
-- [`waymark`](https://github.com/CUHK-Business-School-AI-Hub/waymark) — Turns operational knowledge into durable human SOPs and agent execution playbooks.
-- [`SME_training`](https://github.com/CUHK-Business-School-AI-Hub/SME_training) — Training materials for AI-focused corporate and SME programmes. *(Restricted access.)*
-- [`Ronghua`](https://github.com/CUHK-Business-School-AI-Hub/Ronghua) — An industry collaboration project for AI-assisted contract review. *(Restricted access.)*
+- [`waymark`](https://github.com/CUHK-Business-School-AI-Hub/waymark) — A derivative of the famous skill `grill-me`. Comparing with the orginal one, waymark is more friendly for non-tech staff and entrepreneurs.
+- [`SME_training`](https://github.com/CUHK-Business-School-AI-Hub/SME_training) — Training materials for corporate programmes on agent-native transformation. *(Restricted access.)*
+- [`Ronghua`](https://github.com/CUHK-Business-School-AI-Hub/Ronghua) — An industry collaboration project for AI-assisted legal files review. *(Restricted access.)*
 - [`TaoYuanWeiYe`](https://github.com/CUHK-Business-School-AI-Hub/TaoYuanWeiYe) — A replenishment system developed with a cross-border e-commerce business. *(Restricted access.)*
+- [`BRICK`](https://github.com/CUHK-Business-School-AI-Hub/BRICK) — A reusable template for building general-purpose agent work modules. *(Restricted access.)*
 
 ### Area III: OPC & Entrepreneurship
 
