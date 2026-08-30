@@ -1,8 +1,8 @@
-# CUHK Business School AI Hub
+# CUHK AI Hub for Business
 
 **Research · Teaching · Entrepreneurship**
 
-The CUHK Business School AI Hub is an AI-native platform and ecosystem that turns dispersed AI needs into durable institutional capabilities. It connects computing infrastructure, tools, research support, education assets, industry collaboration, and entrepreneurship pathways to deliver measurable AI × business outcomes.
+The CUHK AI Hub for Business is an AI-native platform and ecosystem that turns dispersed AI needs into durable institutional capabilities. It connects computing infrastructure, tools, research support, education assets, industry collaboration, and entrepreneurship pathways to deliver measurable AI × business outcomes.
 
 Research, teaching, and practice form a closed loop: research creates new methods and evidence; teaching and corporate training turn them into reusable capabilities; and entrepreneurship and industry collaboration put them to work on real business problems.
 
