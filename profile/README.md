@@ -27,6 +27,7 @@ Research projects draw on the shared compute, tooling, and workflow capabilities
 ### Area II: Teaching & Corporate Training
 
 - [`Quaestio-Socratica`](https://github.com/CUHK-Business-School-AI-Hub/Quaestio-Socratica) — Turns source materials or a learning goal into a checkpoint-based, personalized Socratic course.
+- [`Blickwechsel`](https://github.com/CUHK-Business-School-AI-Hub/Blickwechsel) — Audits a lecture you already teach from the student's point of view, then rebuilds what you accept: activities, rotatable datasets, productive-failure cases, and edits to the slide file itself.
 - [`waymark`](https://github.com/CUHK-Business-School-AI-Hub/waymark) — A derivative of the famous skill `grill-me`. Comparing with the orginal one, waymark is more friendly for non-tech staff and entrepreneurs.
 - [`SME_training`](https://github.com/CUHK-Business-School-AI-Hub/SME_training) — Training materials for corporate programmes on agent-native transformation. *(Restricted access.)*
 - [`Ronghua`](https://github.com/CUHK-Business-School-AI-Hub/Ronghua) — An industry collaboration project for AI-assisted legal files review. *(Restricted access.)*
