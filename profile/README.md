@@ -42,7 +42,7 @@ Research work uses the shared cluster, showcases, and agent toolchain above. Ded
 
 **Open**
 
-- [`AI-Frontiers-Learn-Share-and-Apply`](https://github.com/CUHK-Business-School-AI-Hub/AI-Frontiers-Learn-Share-and-Apply) — Monthly internal series for faculty and staff: try tools, share practice, and apply AI in research, teaching, and everyday work. Session pages: [GitHub Pages](https://cuhk-business-school-ai-hub.github.io/AI-Frontiers-Learn-Share-and-Apply/). Next session: 29 September 2026, *From AI Chat to Better Knowledge Work*.
+- [`AI-Frontiers-Learn-Share-and-Apply`](https://github.com/CUHK-Business-School-AI-Hub/AI-Frontiers-Learn-Share-and-Apply) — Monthly internal series for faculty and staff: try tools, share practice, and apply AI in research, teaching, and everyday work. Session pages: [GitHub Pages](https://cuhk-business-school-ai-hub.github.io/AI-Frontiers-Learn-Share-and-Apply/). Next session: 27 October 2026, *Using AI in Teaching: Reviewing Materials and Guiding Students*.
 - [`Blickwechsel`](https://github.com/CUHK-Business-School-AI-Hub/Blickwechsel) — A Claude skill (`teaching-with-ai`) that audits an existing lecture from the student’s seat, then rebuilds activities, rotatable datasets, and the slide file itself. It measures first, labels guesses, and leaves the teaching decisions with you.
 - [`Quaestio-Socratica`](https://github.com/CUHK-Business-School-AI-Hub/Quaestio-Socratica) — Builds a checkpoint-based Socratic course from source materials or a learning goal. The mentor asks rather than lectures; progress is saved, and the learner leaves with personal notes and a mindmap.
 
@@ -62,7 +62,7 @@ Public skills are designed to be used in sequence. Clarify the work with Waymark
 
 **Restricted**
 
-- [`BRICK`](https://github.com/CUHK-Business-School-AI-Hub/BRICK) — Lightweight local template for describing, editing, and repeating a business workflow with an agent. Used in teaching and in industry cases. *(Restricted access.)*
+- [`BRICK`](https://github.com/CUHK-Business-School-AI-Hub/BRICK) — Bounded, Reviewable, Iterative Construction Kit: turn a way of working into a tool an agent can run and a person can review. Used in teaching and in industry cases. *(Restricted access.)*
 - [`AgentDesk`](https://github.com/CUHK-Business-School-AI-Hub/AgentDesk) — Local app skeleton: take a finished product design, swap in one business module and UI, and reuse local run, check, history, and export. *(Restricted access.)*
 
 ---
