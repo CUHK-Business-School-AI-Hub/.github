@@ -1,18 +1,17 @@
-# CUHK Business School Tony Song AI Hub for Business
+# CUHK Business School AI Initiatives
 
 **Research · Teaching · Entrepreneurship**
 
-The CUHK Business School Tony Song AI Hub for Business is a faculty-level, AI-native platform at [CUHK Business School](https://www.bschool.cuhk.edu.hk/). It turns scattered AI demand into durable institutional capability: shared compute and tools, research support, teaching assets, industry collaboration, and pathways for one-person companies (OPCs) and early-stage builders.
+CUHK Business School AI Initiatives brings together two parallel areas at [CUHK Business School](https://www.bschool.cuhk.edu.hk/): the established **CUHK Business School Tony Song AI Hub for Business**, responsible for research support and high-performance computing (HPC), and the proposed **AI-powered Business Education & Entrepreneurship** area, covering enterprise training and applications, entrepreneurship, and teaching support.
 
-Research, teaching, and practice form a closed loop. Research produces methods and evidence. Teaching and training turn them into reusable skills. Entrepreneurship and industry collaboration put those skills to work on real business problems.
+The two areas exchange reusable tools, code templates, methods, cases, and workflows. This page provides a common entry point to their resources and projects.
 
-## What the AI Hub includes
+## Scope of CUHK Business School AI Initiatives
 
-- **Shared capability base** — HPC and GPU infrastructure, onboarding, runnable showcases, and technical support.
-- **Area I: AI × Business Research** — compute, research engineering, experimentation, and reusable research assets.
-- **Area II: Teaching & corporate training** — AI-native courses, faculty development, corporate programmes, and industry collaboration.
-- **Area III: OPC & entrepreneurship** — from clarifying a workflow to a bounded plan, launch checks, and a working prototype.
-- **Community** — monthly internal training and knowledge sharing for faculty and staff.
+| Area | Scope |
+| --- | --- |
+| **CUHK Business School Tony Song AI Hub for Business** — established | Research infrastructure and HPC/GPU operations, research model/API access, research engineering, and academic exchange for faculty members and research postgraduate students. |
+| **AI-powered Business Education & Entrepreneurship** — proposed | Non-degree enterprise training, applied AI projects and solutions, support for entrepreneurs including one-person companies (OPCs), and selected course upgrades using shared tools and cases. |
 
 ## Start here
 
@@ -29,16 +28,20 @@ Research, teaching, and practice form a closed loop. Research produces methods a
 
 ## Repository map
 
-### Shared capability base
+### CUHK Business School Tony Song AI Hub for Business
 
-- [`ai_hub_HPC_user_guide`](https://github.com/CUHK-Business-School-AI-Hub/ai_hub_HPC_user_guide) — Account application, SSH/VS Code login, modules and Conda, Slurm jobs, and resource policy for the AI Hub HPC cluster.
+Research support combines computing resources, model access, and research engineering. Dedicated research repositories will be listed here as they are released.
+
+#### Research infrastructure and onboarding
+
+- [`ai_hub_HPC_user_guide`](https://github.com/CUHK-Business-School-AI-Hub/ai_hub_HPC_user_guide) — Account application, SSH/VS Code login, modules and Conda, Slurm jobs, and resource policy for the CUHK Business School Tony Song AI Hub for Business HPC cluster.
 - [`AI_Hub_showcases`](https://github.com/CUHK-Business-School-AI-Hub/AI_Hub_showcases) — Runnable GPU cases on the cluster: review sentiment classification, bank marketing, Qwen inference, and a short guide video.
 
-### Area I: AI × Business Research
+### AI-powered Business Education & Entrepreneurship
 
-Research work uses the shared cluster, showcases, and agent toolchain above. Dedicated research repositories will be listed here as they are released.
+The following teaching resources, enterprise projects, and entrepreneurship tools form an existing foundation for this proposed area. Reusable outputs can also support research onboarding and other activities across CUHK Business School AI Initiatives.
 
-### Area II: Teaching, faculty development & corporate training
+#### Teaching, faculty development & knowledge sharing
 
 **Open**
 
@@ -46,13 +49,15 @@ Research work uses the shared cluster, showcases, and agent toolchain above. Ded
 - [`Blickwechsel`](https://github.com/CUHK-Business-School-AI-Hub/Blickwechsel) — A Claude skill (`teaching-with-ai`) that audits an existing lecture from the student’s seat, then rebuilds activities, rotatable datasets, and the slide file itself. It measures first, labels guesses, and leaves the teaching decisions with you.
 - [`Quaestio-Socratica`](https://github.com/CUHK-Business-School-AI-Hub/Quaestio-Socratica) — Builds a checkpoint-based Socratic course from source materials or a learning goal. The mentor asks rather than lectures; progress is saved, and the learner leaves with personal notes and a mindmap.
 
+#### Enterprise training & applied AI projects
+
 **Restricted**
 
 - [`SME_training`](https://github.com/CUHK-Business-School-AI-Hub/SME_training) — Two-day corporate programme on agent-native work: from chat tools to agents, BRICK practice, and how a team hands work over. Pitch, slides, and instructor notes. *(Restricted access.)*
 - [`Ronghua`](https://github.com/CUHK-Business-School-AI-Hub/Ronghua) — Industry collaboration: an agent workspace for reviewing procurement contracts against templates and producing revision packs. *(Restricted access.)*
 - [`TaoYuanWeiYe`](https://github.com/CUHK-Business-School-AI-Hub/TaoYuanWeiYe) — Industry collaboration: an enterprise AI-transformation case with a cross-border e-commerce operator, including training/coaching methods and replenishment implementations. *(Restricted access.)*
 
-### Area III: OPC & entrepreneurship
+#### Entrepreneurship & one-person companies
 
 Public skills are designed to be used in sequence. Clarify the work with Waymark, turn the idea into a bounded plan with Constitution, then check launch readiness with AutoQA.
 
@@ -67,4 +72,4 @@ Public skills are designed to be used in sequence. Clarify the work with Waymark
 
 ---
 
-Collaboration repositories marked *restricted* are visible only to authorized AI Hub members. Public tools and session pages are available through the links above.
+Collaboration repositories marked *restricted* require access authorization for the relevant repository. Public tools and session pages are available through the links above.
