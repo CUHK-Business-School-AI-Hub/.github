@@ -1,17 +1,14 @@
-# CUHK Business School AI Initiatives
+# CUHK Business School Tony Song AI Hub for Business
 
-**Research · Teaching · Entrepreneurship**
+**Research · Computing · Technical Support**
 
-CUHK Business School AI Initiatives brings together two parallel areas at [CUHK Business School](https://www.bschool.cuhk.edu.hk/): the established **CUHK Business School Tony Song AI Hub for Business**, responsible for research support and high-performance computing (HPC), and the proposed **AI-powered Business Education & Entrepreneurship** area, covering enterprise training and applications, entrepreneurship, and teaching support.
+The CUHK Business School Tony Song AI Hub for Business supports AI-related and AI-enabled research at [CUHK Business School](https://www.bschool.cuhk.edu.hk/). It provides shared computing resources, model access, and technical support for faculty members and research postgraduate students.
 
-The two areas exchange reusable tools, code templates, methods, cases, and workflows. This page provides a common entry point to their resources and projects.
+## What the CUHK Business School Tony Song AI Hub for Business includes
 
-## Scope of CUHK Business School AI Initiatives
-
-| Area | Scope |
-| --- | --- |
-| **CUHK Business School Tony Song AI Hub for Business** — established | Research infrastructure and HPC/GPU operations, research model/API access, research engineering, and academic exchange for faculty members and research postgraduate students. |
-| **AI-powered Business Education & Entrepreneurship** — proposed | Non-degree enterprise training, applied AI projects and solutions, support for entrepreneurs including one-person companies (OPCs), and selected course upgrades using shared tools and cases. |
+- **Shared capability base** — HPC and GPU infrastructure, onboarding, runnable showcases, and technical support.
+- **AI × Business Research** — research model/API access, research engineering, experimentation, and reusable research assets.
+- **Academic exchange** — research conferences, invited speakers, and research capability development.
 
 ## Start here
 
@@ -19,6 +16,28 @@ The two areas exchange reusable tools, code templates, methods, cases, and workf
 | --- | --- |
 | Use the faculty HPC cluster | [`ai_hub_HPC_user_guide`](https://github.com/CUHK-Business-School-AI-Hub/ai_hub_HPC_user_guide) |
 | Run a first GPU example | [`AI_Hub_showcases`](https://github.com/CUHK-Business-School-AI-Hub/AI_Hub_showcases) |
+
+## Repository map
+
+### Shared capability base
+
+- [`ai_hub_HPC_user_guide`](https://github.com/CUHK-Business-School-AI-Hub/ai_hub_HPC_user_guide) — Account application, SSH/VS Code login, modules and Conda, Slurm jobs, and resource policy for the CUHK Business School Tony Song AI Hub for Business HPC cluster.
+- [`AI_Hub_showcases`](https://github.com/CUHK-Business-School-AI-Hub/AI_Hub_showcases) — Runnable GPU cases on the cluster: review sentiment classification, bank marketing, Qwen inference, and a short guide video.
+
+### AI × Business Research
+
+Research work uses the shared cluster and showcases above. Dedicated research repositories will be listed here as they are released.
+
+---
+
+# CUHK Business School AI Initiatives
+
+CUHK Business School AI Initiatives is the broader framework encompassing the CUHK Business School Tony Song AI Hub for Business and the proposed AI-powered Business Education & Entrepreneurship area. The teaching, enterprise training, and entrepreneurship resources below support the latter area. The two areas share reusable tools, code templates, methods, cases, and workflows.
+
+## Start here
+
+| If you want to… | Go to |
+| --- | --- |
 | Join faculty/staff knowledge sharing | [`AI-Frontiers-Learn-Share-and-Apply`](https://github.com/CUHK-Business-School-AI-Hub/AI-Frontiers-Learn-Share-and-Apply) |
 | Audit and rebuild a lecture you already teach | [`Blickwechsel`](https://github.com/CUHK-Business-School-AI-Hub/Blickwechsel) |
 | Turn materials or a learning goal into a Socratic course | [`Quaestio-Socratica`](https://github.com/CUHK-Business-School-AI-Hub/Quaestio-Socratica) |
@@ -28,20 +47,7 @@ The two areas exchange reusable tools, code templates, methods, cases, and workf
 
 ## Repository map
 
-### CUHK Business School Tony Song AI Hub for Business
-
-Research support combines computing resources, model access, and research engineering. Dedicated research repositories will be listed here as they are released.
-
-#### Research infrastructure and onboarding
-
-- [`ai_hub_HPC_user_guide`](https://github.com/CUHK-Business-School-AI-Hub/ai_hub_HPC_user_guide) — Account application, SSH/VS Code login, modules and Conda, Slurm jobs, and resource policy for the CUHK Business School Tony Song AI Hub for Business HPC cluster.
-- [`AI_Hub_showcases`](https://github.com/CUHK-Business-School-AI-Hub/AI_Hub_showcases) — Runnable GPU cases on the cluster: review sentiment classification, bank marketing, Qwen inference, and a short guide video.
-
-### AI-powered Business Education & Entrepreneurship
-
-The following teaching resources, enterprise projects, and entrepreneurship tools form an existing foundation for this proposed area. Reusable outputs can also support research onboarding and other activities across CUHK Business School AI Initiatives.
-
-#### Teaching, faculty development & knowledge sharing
+### Teaching, faculty development & corporate training
 
 **Open**
 
@@ -49,15 +55,13 @@ The following teaching resources, enterprise projects, and entrepreneurship tool
 - [`Blickwechsel`](https://github.com/CUHK-Business-School-AI-Hub/Blickwechsel) — A Claude skill (`teaching-with-ai`) that audits an existing lecture from the student’s seat, then rebuilds activities, rotatable datasets, and the slide file itself. It measures first, labels guesses, and leaves the teaching decisions with you.
 - [`Quaestio-Socratica`](https://github.com/CUHK-Business-School-AI-Hub/Quaestio-Socratica) — Builds a checkpoint-based Socratic course from source materials or a learning goal. The mentor asks rather than lectures; progress is saved, and the learner leaves with personal notes and a mindmap.
 
-#### Enterprise training & applied AI projects
-
 **Restricted**
 
 - [`SME_training`](https://github.com/CUHK-Business-School-AI-Hub/SME_training) — Two-day corporate programme on agent-native work: from chat tools to agents, BRICK practice, and how a team hands work over. Pitch, slides, and instructor notes. *(Restricted access.)*
 - [`Ronghua`](https://github.com/CUHK-Business-School-AI-Hub/Ronghua) — Industry collaboration: an agent workspace for reviewing procurement contracts against templates and producing revision packs. *(Restricted access.)*
 - [`TaoYuanWeiYe`](https://github.com/CUHK-Business-School-AI-Hub/TaoYuanWeiYe) — Industry collaboration: an enterprise AI-transformation case with a cross-border e-commerce operator, including training/coaching methods and replenishment implementations. *(Restricted access.)*
 
-#### Entrepreneurship & one-person companies
+### OPC & entrepreneurship
 
 Public skills are designed to be used in sequence. Clarify the work with Waymark, turn the idea into a bounded plan with Constitution, then check launch readiness with AutoQA.
 
