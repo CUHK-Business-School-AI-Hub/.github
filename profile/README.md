@@ -1,8 +1,8 @@
-# CUHK AI Hub for Business
+# CUHK Business School Tony Song AI Hub for Business
 
 **Research · Teaching · Entrepreneurship**
 
-The CUHK AI Hub for Business is a faculty-level, AI-native platform at [CUHK Business School](https://www.bschool.cuhk.edu.hk/). It turns scattered AI demand into durable institutional capability: shared compute and tools, research support, teaching assets, industry collaboration, and pathways for one-person companies (OPCs) and early-stage builders.
+The CUHK Business School Tony Song AI Hub for Business is a faculty-level, AI-native platform at [CUHK Business School](https://www.bschool.cuhk.edu.hk/). It turns scattered AI demand into durable institutional capability: shared compute and tools, research support, teaching assets, industry collaboration, and pathways for one-person companies (OPCs) and early-stage builders.
 
 Research, teaching, and practice form a closed loop. Research produces methods and evidence. Teaching and training turn them into reusable skills. Entrepreneurship and industry collaboration put those skills to work on real business problems.
 
